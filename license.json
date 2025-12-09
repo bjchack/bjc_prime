@@ -3,5 +3,10 @@
     "code": "TEST123",
     "expire": "2026-01-01",
     "device": ""
+  },
+  {
+    "code": "BJC999",
+    "expire": "2026-02-10",
+    "device": ""
   }
 ]
